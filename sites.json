@@ -1,0 +1,32 @@
+{
+  "sites": [{
+    "home": {
+      "name": "home",
+      "title": "Passage.Social",
+      "owner": "BeSquishy",
+      "contact": "test@example.com",
+      "created": "2016-12-24",
+      "updated": "2016-12-24",
+      "id": 1,
+      "copyright": "2016",
+      "slogan": "Dynamically Delicious",
+      "pageTemplate": "default",
+      "app": "default",
+      "layout": "default"
+    },
+    "david": {
+      "name": "david",
+      "title": "David's Site",
+      "owner": "David L. Dyess II",
+      "contact": "test@example.com",
+      "created": "2016-12-24",
+      "updated": "2016-12-24",
+      "id": 2,
+      "copyright": "2016",
+      "slogan": "Always Under Construction",
+      "pageTemplate": "default",
+      "app": "default",
+      "layout": "default"
+    }
+  }]
+}
