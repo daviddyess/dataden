@@ -1,4 +1,4 @@
-[
+[{
   "name": "home",
   "title": "Passage.Social",
   "owner": "BeSquishy",
@@ -12,4 +12,4 @@
   "pageTemplate": "default",
   "app": "default",
   "layout": "default"
-]
+}]
