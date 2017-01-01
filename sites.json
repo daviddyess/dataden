@@ -9,6 +9,7 @@
       "id": 1,
       "copyright": "2016",
       "slogan": "Dynamically Delicious",
+      "descr": "The main site for Passage.Social",
       "pageTemplate": "default",
       "app": "default",
       "layout": "default"
@@ -22,6 +23,7 @@
       "id": 2,
       "copyright": "2016",
       "slogan": "Always Under Construction",
+      "descr": "David's personal web site, blog, and playground.",
       "pageTemplate": "default",
       "app": "default",
       "layout": "default"
