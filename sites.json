@@ -1,6 +1,6 @@
 {
   "sites": [{
-    "home": {
+    "home": [{
       "name": "home",
       "title": "Passage.Social",
       "owner": "BeSquishy",
@@ -13,8 +13,8 @@
       "pageTemplate": "default",
       "app": "default",
       "layout": "default"
-    },
-    "david": {
+    }],
+    "david": [{
       "name": "david",
       "title": "David's Site",
       "owner": "David L. Dyess II",
@@ -27,6 +27,6 @@
       "pageTemplate": "default",
       "app": "default",
       "layout": "default"
-    }
+    }]
   }]
 }
