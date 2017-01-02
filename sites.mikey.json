@@ -1,0 +1,15 @@
+{
+  "name": "mikey",
+  "title": "Mikey's Site",
+  "owner": "Miguel Mares",
+  "contact": "test@example.com",
+  "created": "2016-12-31",
+  "updated": "2016-12-31",
+  "id": 3,
+  "copyright": "2016",
+  "slogan": "BAMBAM Booyaa",
+  "descr": "Mikey's personal web site, blog, and playground.",
+  "pageTemplate": "default",
+  "app": "default",
+  "layout": "default"
+}
